@@ -1,2 +1,2 @@
 # cyberbullying-detector
-detects  Offensive language,  Threats , name-calling,  Hate speech,  discrimination
+Detects  Offensive language,  Threats , Name-calling,  Hate speech and Discrimination
